@@ -4,6 +4,13 @@
 | <img src="outputs/Pipes.gif"/> | <img src="outputs/Classroom1.gif"/> |
 | <img src="outputs/Motorcycle.gif"/> | <img src="outputs/Playroom.gif"/> |
 
+## Checklist
+- [ ] View Interpolation
+    - [x] forward warp
+    - [ ] backward warp
+- [ ] View Extrapolation
+- [ ] Mesh and re-render in a real-time graphics engine
+
 ## Usage
 1. Download and prerprocess the dataset.
     ```
