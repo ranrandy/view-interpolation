@@ -1,0 +1,6 @@
+__pycache__/*
+.ipynb*
+papers/*
+*.ipynb
+progress.md
+dataset*
