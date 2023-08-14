@@ -3,4 +3,4 @@ __pycache__/*
 papers/*
 *.ipynb
 progress.md
-dataset*
+dataset_middlebury/*-perfect
